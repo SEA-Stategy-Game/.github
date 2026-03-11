@@ -1,14 +1,16 @@
-# SEA Strategy Game Organization
+# SEA Strategy Game
 
-This organization is the central hub for the SEA Strategy Game project. Each development group maintains its own repository, and the client project integrates their work.
+This is the central hub for the Strategy Game project of the Software Engineering and Architecture (SEA) course the University of Copenhagen (Spring 2026).
 
-## Group Repositories
+## About This Organization
 
-- **AI / Planning:** [Planning](https://github.com/SEA-Stategy-Game/Planning)
-- **Core Systems:** [Core-systems](https://github.com/SEA-Stategy-Game/Core-systems)
-- **Multiplayer:** [game-room-manager](https://github.com/SEA-Stategy-Game/game-room-manager)
-- **Interface:** Repository coming soon
+This organization coordinates the development of a distributed strategy game, with each development team maintaining its own specialized repository. Teams collaborate to integrate their work into a cohesive client application.
 
-## Client Project
+## Team Repositories
 
-- **Client Project:** [Client-Project](https://github.com/SEA-Stategy-Game/Client-Project)
+| Team | Repository | Focus |
+|------|------------|-------|
+| **AI & Planning** | [Planning](https://github.com/SEA-Stategy-Game/Planning) | Automation and planning aspects |
+| **Core Systems** | [Core-systems](https://github.com/SEA-Stategy-Game/Core-systems) | Foundational game systems |
+| **Multiplayer** | [game-room-manager](https://github.com/SEA-Stategy-Game/game-room-manager) | Multiplayer aspects |
+| **Graphics and interfaces** | ––– | Graphical aspects |
