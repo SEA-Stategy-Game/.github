@@ -10,8 +10,8 @@ Welcome to the **SEA Strategy Game** GitHub organization. This organization serv
 |---|---|---|
 | [Planning](https://github.com/SEA-Stategy-Game/Planning) | AI / Planning | AI behavior, game logic planning and design |
 | [Core-systems](https://github.com/SEA-Stategy-Game/Core-systems) | Core Systems | Core game systems and engine infrastructure |
-| Multiplayer | Multiplayer | Networking, multiplayer and online features |
-| Interface | Interface | UI/UX and front-end interface components |
+| [game-room-manager](https://github.com/SEA-Stategy-Game/game-room-manager) | Multiplayer | Game room management, networking and online features |
+| Interface (coming soon) | Interface | UI/UX and front-end interface components |
 
 ### Project Repository
 
